@@ -1,5 +1,5 @@
 # Site settings
-title: 🍓 Blog
+title: Borui Blog
 SEOTitle: 博睿的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: Mr.Strawberry@outlook.com
@@ -10,7 +10,7 @@ baseurl: "/"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiaoborui/test.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
+sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
