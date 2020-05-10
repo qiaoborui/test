@@ -2,7 +2,7 @@
 title: Borui Blog
 SEOTitle: 博睿的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: Mr.Strawberry@outlook.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 博睿的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://qiaoborui.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/qiaoborui/test.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/photo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
