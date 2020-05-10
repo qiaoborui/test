@@ -1,7 +1,7 @@
 # Site settings
 title: Borui's Blog
 SEOTitle: 博睿的博客 | BY Blog
-header-img: "https://api.sunweihu.com/api/bing1/api.php"
+header-img: https://api.sunweihu.com/api/bing1/api.php
 email: Mr.Strawberry@outlook.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 博睿的博客, qiaoborui, 乔博睿, iOS, Apple, iPhone"
